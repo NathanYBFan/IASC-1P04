@@ -88,13 +88,12 @@ Sampling Plus (1.0)
 
 ---
 
-
 "submarine sonar"
 by link-boy
 
 2018 - Licensed under
 Creative commons
-Public Domain (1.0)
+Public Domain (0)
 
 ---
 
