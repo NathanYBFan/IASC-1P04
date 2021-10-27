@@ -97,3 +97,21 @@ Public Domain (0)
 
 ---
 
+"stars"
+by Prettysleepy
+
+2018 - Licensed under
+Creative commons
+Public Domain (0)
+
+---
+
+"night-sky"
+by SushiHue
+
+2019 - Licensed under
+Creative commons
+Public Domain (0)
+
+---
+
