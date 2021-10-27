@@ -61,3 +61,40 @@ Attribution Noncommercial (3.0)
 
 ---
 
+"Water>submarine"
+by sculptor
+
+2006 - Licensed under
+Creative commons
+Atribution Noncommercial (3.0)
+
+---
+
+"Submarine Sonar"
+by Breviceps
+
+2019 - Licensed under
+Creative commons
+Universal (1.0)
+
+---
+
+"submarine"
+by jmorrisoncafe330
+
+2010 - Licensed under
+Creative commons
+Sampling Plus (1.0)
+
+---
+
+
+"submarine sonar"
+by link-boy
+
+2018 - Licensed under
+Creative commons
+Public Domain (1.0)
+
+---
+
