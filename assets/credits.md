@@ -52,4 +52,12 @@ Attribution Noncommercial (3.0)
 
 ---
 
+"drone 1-Omnisphere"
+by rileywarren
+
+2017 - Licensed under
+Creative commons
+Attribution Noncommercial (3.0)
+
+---
 
