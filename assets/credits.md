@@ -7,15 +7,6 @@ Attribution Noncommercial (3.0)
 
 ---
 
-"Songs in Fallen Halls"
-by PorchCat
-
-2017 - Licensed under
-Creative Commons
-Attribution (3.0)
-
----
-
 "Lost Beyond"
 by PorchCat
 
@@ -92,24 +83,6 @@ Sampling Plus (1.0)
 by link-boy
 
 2018 - Licensed under
-Creative commons
-Public Domain (0)
-
----
-
-"stars"
-by Prettysleepy
-
-2018 - Licensed under
-Creative commons
-Public Domain (0)
-
----
-
-"night-sky"
-by SushiHue
-
-2019 - Licensed under
 Creative commons
 Public Domain (0)
 
