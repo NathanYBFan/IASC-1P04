@@ -52,15 +52,6 @@ Atribution Noncommercial (3.0)
 
 ---
 
-"Submarine Sonar"
-by Breviceps
-
-2019 - Licensed under
-Creative commons
-Universal (1.0)
-
----
-
 "submarine"
 by jmorrisoncafe330
 
