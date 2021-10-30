@@ -11,4 +11,4 @@ Playtest my game [here]()
 
 ## Prototype
 
-Play my prototype [here]()
+Play my prototype [here](prototype/The Abyss Stares Back_2021_Oct30_Prototype.html)
