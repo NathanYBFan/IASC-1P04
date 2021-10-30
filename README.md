@@ -9,6 +9,6 @@ Playtest my weekly build [here](weekly_builds/The Abyss Stares Back_2021_Oct30_3
 
 Playtest my game [here]()
 
-## Prototype
+## Prototype - The Abyss Stares Back
 
 Play my prototype [here](prototype/The Abyss Stares Back_2021_Oct30_Prototype.html)
