@@ -14,3 +14,6 @@ Playtest my game [here](playtest/playtest)
 Play my prototype [here](prototype/The Abyss Stares Back_2021_Oct31_Prototype.html)
 
 
+## Credits
+
+Check out the credits [here](../assets/credits)!
