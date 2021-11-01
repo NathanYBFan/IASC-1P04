@@ -3,7 +3,7 @@
 
 ## Play the game!
 
-Play the game prototype [here]().
+Play the game prototype [here](../prototype/The Abyss Stares Back_2021_Oct31_Prototype.html).
 
 ## Complete the playtest survey below!
 
