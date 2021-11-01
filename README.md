@@ -3,7 +3,7 @@ Welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 
 ## Weekly Build
 
-Playtest my weekly build [here](weekly_builds/The Abyss Stares Back_2021_Oct30_3.html)
+Playtest my most recent build [here](weekly_builds/The Abyss Stares Back_2021_Oct30_3.html)!
 
 ## Playtest
 
