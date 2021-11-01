@@ -16,4 +16,4 @@ Play my prototype [here](prototype/The Abyss Stares Back_2021_Oct31_Prototype.ht
 
 ## Credits
 
-Check out the credits [here](../assets/credits)!
+Check out the credits [here](assets/credits)!
