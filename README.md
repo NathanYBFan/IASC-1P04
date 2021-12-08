@@ -1,21 +1,19 @@
 # IASC-1P04 | Nathan Fan
 Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University!
 
-## Weekly Build
+The Abyss Stares Back is a short lovecraftian game where players encounter then explore an abandoned submaarine. As more information is collected, puzzle pieces slowly start to fit together and slowly you realize the fate that awaits. Heavily inspired by Lovecraftian stories and the SCP foundation - SCP-3000.
 
-Playtest my most recent build [here](weekly_builds/The Abyss Stares Back_2021_Dec08_Prototype.html)!
+## Playtest My Final Build - The Abyss Stares Back
 
-## Playtest
-
-Playtest my game [here](playtest/playtest)
+Playtest my game [here](final_build/)
 
 ## Prototype - The Abyss Stares Back
 
 Play my prototype [here](prototype/The Abyss Stares Back_2021_Oct31_Prototype.html)
 
-## Final Build - The Abyss Stares Back
+## Weekly Build
 
-Play my final build of the game [here](final_build/)!
+Playtest my most recent build [here](weekly_builds/The Abyss Stares Back_2021_Dec08_Prototype.html)!
 
 ## Credits
 
