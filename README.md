@@ -5,7 +5,7 @@ The Abyss Stares Back is a short lovecraftian game where players encounter then 
 
 ## Play now - The Abyss Stares Back
 
-Playtest my game [here](final_build/The Abyss Stares Back_FinalBuild.html)
+Playtest my game [here](final_build/The_Abyss_Stares_Back_FinalBuild.html)
 
 ## Prototype - The Abyss Stares Back
 
