@@ -9,11 +9,11 @@ Playtest my game [here](final_build/The_Abyss_Stares_Back_FinalBuild.html)
 
 ## Prototype - The Abyss Stares Back
 
-Play my prototype [here](prototype/The Abyss Stares Back_2021_Oct31_Prototype.html)
+Play my prototype [here](prototype/The_Abyss_Stares_Back_2021_Oct31_Prototype.html)
 
 ## Weekly Build
 
-Playtest my most recent build [here](weekly_builds/The Abyss Stares Back_2021_Dec08_Prototype.html)!
+Playtest my most recent build [here](weekly_builds/The_Abyss_Stares_Back_2021_Dec08_Prototype.html)!
 
 ## Credits
 
